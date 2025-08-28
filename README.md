@@ -1,0 +1,2 @@
+# HR-Resume_Analyzer
+A Python project that analyzes resumes (PDF), detects skills, calculates a performance score, and generates suggested interview questions.
